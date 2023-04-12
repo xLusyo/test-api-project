@@ -1,0 +1,53 @@
+{
+  "data": {
+    "boards": [
+      {
+        "id": "4286401956",
+        "name": "Subitems of (Name) - Onboarding Template"
+      },
+      { "id": "4286401934", "name": "(Name) - Onboarding Template" },
+      { "id": "4246544405", "name": "Subitems of QA Design Board" },
+      { "id": "4246544346", "name": "QA Design Board" },
+      { "id": "4236262777", "name": "Subitems of Website Audit template" },
+      { "id": "4236262728", "name": "Website Audit template" },
+      {
+        "id": "4232152735",
+        "name": "Subitems of Dynamics for marketing investment/offering"
+      },
+      {
+        "id": "4232152626",
+        "name": "Dynamics for marketing investment/offering"
+      },
+      { "id": "4230969903", "name": "Subitems of Salgsaktiviteter" },
+      { "id": "4230774949", "name": "Salgsaktiviteter" },
+      { "id": "4220640670", "name": "Subitems of Keyword Research Process" },
+      { "id": "4220474260", "name": "Keyword Research Process" },
+      {
+        "id": "4214120528",
+        "name": "Subitems of new client - Other projects/tasks"
+      },
+      { "id": "4214120474", "name": "new client - Other projects/tasks" },
+      {
+        "id": "4214087425",
+        "name": "Subitems of New client - Tasklist (client overview)"
+      },
+      { "id": "4214087386", "name": "New client - Tasklist (client overview)" },
+      {
+        "id": "4214070163",
+        "name": "Subitems of New client - Customer Journey"
+      },
+      { "id": "4214070136", "name": "New client - Customer Journey" },
+      { "id": "4213521590", "name": "Subitems of Other tasks" },
+      { "id": "4213086664", "name": "Subitems of Video Tutorials" },
+      { "id": "4206744528", "name": "Proposal overviews" },
+      { "id": "4205304169", "name": "Subitems of Blog Step-by-step Guideline" },
+      { "id": "4205165202", "name": "Blog Step-by-step Guideline" },
+      { "id": "4205151734", "name": "Blog Monitoring" },
+      {
+        "id": "4190589929",
+        "name": "Subitems of Keyword research (SEO) - Lars testing"
+      }
+    ]
+  },
+  "account_id": 4413525
+}
